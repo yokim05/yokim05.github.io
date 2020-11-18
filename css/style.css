@@ -15,7 +15,7 @@
 html,
 body {
 	height: 100%;
-	font-family: "Montserrat", sans-serif;
+	font-family: "Robto","Montserrat", sans-serif;
 	-webkit-font-smoothing: antialiased;
 	/* font-smoothing: antialiased; */
 }
@@ -372,7 +372,7 @@ Hero section
 }
 
 .hs-item h2 span {
-	color: #fc0254;
+	color: #FF87B7;
 }
 
 .hs-item p {
